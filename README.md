@@ -2,7 +2,7 @@
 - 👀 I’m interested in Backend
 - 🌱 I’m currently learning nodejs
 
-13 to
+13 yo
 
 <!---
 Zaterz/Zaterz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
